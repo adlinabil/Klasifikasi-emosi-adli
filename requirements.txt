@@ -1,8 +1,8 @@
-streamlit
-numpy
-pandas
-matplotlib
-seaborn
-Pillow
-opencv-python-headless
-tensorflow-cpu==2.21.0
+   streamlit
+   opencv-python-headless
+   numpy
+   pandas
+   matplotlib
+   seaborn
+   Pillow
+   tensorflow-cpu
