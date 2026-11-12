@@ -1,0 +1,8 @@
+   streamlit
+   opencv-python-headless==4.9.0.80
+   numpy<2
+   pandas
+   matplotlib
+   seaborn
+   Pillow
+   tensorflow==2.15.0
