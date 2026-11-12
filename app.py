@@ -19,7 +19,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DATASET_PATH = "D:\Citra Emosi Wajah Menggunakan CNN\Citra Emosi Wajah Menggunakan CNN\app.py"
+DATASET_PATH = r"D:\Citra Emosi Wajah Menggunakan CNN adli nabil mubarok\processed_data"
 MODEL_PATH = "model_emotion_cnn.h5"
 ARTIFACTS_PATH = "evaluation_artifacts.pkl"
 
